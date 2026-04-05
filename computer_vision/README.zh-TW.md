@@ -8,3 +8,4 @@
 電腦視覺來自於使用機器學習技術對影像處理進行建模,而電腦視覺則應用機器學習來識別影像解釋模式（很像人類視覺的視覺推理過程）。
 
 * <https://zh-yue.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E8%A6%96%E8%A6%BA>
+* <https://zh.wikipedia.org/w/index.php?title=%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89&oldformat=true>
