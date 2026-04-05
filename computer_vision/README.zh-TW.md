@@ -1,4 +1,6 @@
 # 電腦視覺
+[English](README.md) | [Traditional Chinese](README.zh-TW.md)
+
 電腦視覺是電腦科學的一個領域,致力於使電腦能夠以與人類相同的方式查看、識別和處理影像,並提供適當的輸出。
 
 這就像將人類的智慧和本能傳授給電腦一樣。 影像處理和電腦視覺略有不同。影像處理意味著應用一些演算法將影像從一種形式轉換為另一種形式,例如平滑(smoothing)、對比(contrasting)、拉伸(stretching)等。
