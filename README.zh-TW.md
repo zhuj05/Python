@@ -30,6 +30,8 @@
   <a href="https://github.com/psf/black">
     <img src="https://img.shields.io/static/v1?label=code%20style&message=black&color=black&style=flat-square" height="20" alt="code style: black">
   </a>
+
+[English](README.md) | [繁體中文](README.zh-TW.md)
 <!-- Short description: -->
   <h3>所有用 Python 實現的演算法 - 用於教育</h3>
 </div>
